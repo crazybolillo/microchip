@@ -1,0 +1,15 @@
+# .gitignore file
+# Files generated during compilation process
+*.hex
+*.hxl
+*.elf
+*.coff
+*.lst
+*.rlf
+*.s
+*.sym
+*.p1
+*.d
+*.cmf
+*.sdb
+*.o
